@@ -48,3 +48,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# VS Code specific files
+.vscode/
