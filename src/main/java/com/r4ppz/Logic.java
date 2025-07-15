@@ -1,6 +1,6 @@
 package com.r4ppz;
 
-public class MainModel {
+public class Logic {
     private double firstNumber;
     private double secondNumber;
     private String operation;
